@@ -8,27 +8,27 @@ class Cart extends React.Component{
             products:[
                 {
                     title:'Phone',
-                    price:9999,
+                    price:34999,
                     qty:1,
                     img:'',
                     id:1
                 },
                 {
                     title:'Watch',
-                    price:999,
+                    price:5999,
                     qty:1,
                     img:'',
                     id:2
                 },{
                     title:'Laptop',
-                    price:99999,
+                    price:79999,
                     qty:1,
                     img:'',
                     id:3
                 },
                 {
                     title:'Earphones',
-                    price:599,
+                    price:1999,
                     qty:1,
                     img:'',
                     id:4
